@@ -1,16 +1,27 @@
-# flutter_apps
+# Flutter Login App – Week 1
 
-A new Flutter project.
+This project is developed as part of **Week 1 tasks** of the Flutter Development Internship.
 
-## Getting Started
+## 📌 Features
+- Login screen with email and password fields
+- Form validation for email and password
+- Navigation from Login Screen to Home Screen
+- Clean and simple UI using Flutter widgets
 
-This project is a starting point for a Flutter application.
+## 🧩 Screens
+- Login Screen
+- Home Screen
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Material UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ▶️ How to Run the Project
+1. Clone this repository
+2. Run `flutter pub get`
+3. Run `flutter run`
+   git add README.md
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👤 Author
+Rifaquat Ali
